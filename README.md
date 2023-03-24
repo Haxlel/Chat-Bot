@@ -37,4 +37,4 @@ Contribución:
 
 Si desea contribuir a este proyecto, puede enviar un pull request o crear una issue. Asegúrese de seguir las pautas de contribución del proyecto.
 
-[![Sin-t-tulo-1.jpg](https://i.postimg.cc/HWMWPjpf/Sin-t-tulo-1.jpg)](https://postimg.cc/xq0SXfNR)
+[![Sin-t-tulo-1.jpg](https://i.postimg.cc/N0LB8jJC/Sin-t-tulo-1.jpg)](https://postimg.cc/qtfP44d2)
