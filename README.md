@@ -16,6 +16,7 @@ Instalación
 2.Instalar las dependencias:
 
     pip install openai
+    pip install requests
 
 
 3.Configurar la API key de OpenAI:
